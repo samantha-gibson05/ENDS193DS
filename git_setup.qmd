@@ -1,0 +1,9 @@
+---
+title: "git_setup"
+format: html
+editor: visual
+---
+
+```{r}
+print('hello world')
+```
